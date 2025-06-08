@@ -5,17 +5,38 @@ This documentation only covers the specific points of this library, if you want 
 **Documentation**
 
 - [Installation](#installation)
-- [Quick Start Guide](Quick-Start-Guide.md) - Get up and running quickly
-- [Models Reference](Models-Reference.md) - Complete reference for all models
-- [Advanced Query Building](Advanced-Query-Building.md) - Advanced querying techniques
-- [Custom Post Types](Custom-Post-Types.md) - Working with custom post types
-- [Relationships](Relationships.md) - Model relationships and eager loading
-- [Multisite Support](Multisite-Support.md) - Working with WordPress multisite
+
+### Getting Started
+
+- [Quick Start Guide](Quick-Start-Guide.md) - Get up and running quickly with practical examples
+
+### Core Operations
+
+- [CRUD Operations](CRUD-Operations.md) - Complete guide to Create, Read, Update, Delete operations
+- [Meta Data Management](Meta-Management.md) - Comprehensive meta data operations and batch processing
+- [Performance Optimization](Performance-Optimization.md) - Eager loading, avoiding N+1 queries, and optimization techniques
+
+### Advanced Topics
+
+- [Advanced Query Building](Advanced-Query-Building.md) - Complex queries and advanced patterns
+- [Custom Post Types](Custom-Post-Types.md) - Working with custom post types and dedicated models
+- [Relationships](Relationships.md) - Model relationships and advanced relationship patterns
+- [Multisite Support](Multisite-Support.md) - Working with WordPress multisite installations
+
+### Reference
+
+- [Models Reference](Models-Reference.md) - Complete API reference for all available models
+
+### Legacy Topics
+
 - [Attribute & meta casting](Attribute-&-meta-casting.md) - Type casting for meta fields
 - [Create custom model](Create-custom-model.md) - Building custom models
 - [Use Eloquent facade](DB-facade.md) - Using the database facade
 - [Events](Events.md) - Model events and hooks
 - [Filter data](Filter-data.md) - Filtering and scoping data
+
+### Support
+
 - [Troubleshooting](Troubleshooting.md) - Common issues and solutions
 - [Upgrading from v3 to v4](Upgrading-from-v3-to-v4.md) - Migration guide
 
